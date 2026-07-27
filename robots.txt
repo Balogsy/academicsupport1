@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin.html
+
+Sitemap: https://academicsupport.netlify.app/sitemap.xml
